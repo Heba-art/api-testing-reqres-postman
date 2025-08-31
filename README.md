@@ -16,7 +16,7 @@ api-testing-reqres-postman/
 │── postman/
 │   ├── ReqResCollection.postman_collection.json
 │   ├── ReqResEnv.postman_environment.json
-│   ├── screenshot-report.png   👈 here
+│   ├── screenshot-report.png   
 │── README.md
 │── API-Report.html
 ```
@@ -57,7 +57,7 @@ newman run postman/ReqResCollection.postman_collection.json -e postman/ReqResEnv
 ## 📊 Sample Report
 Newman HTML dashboard example after running the collection:
 
-![Newman Report](./postman/screenshot-report.png)
+![Newman Report](postman/screenshot-report.png)
 
 
 ### 🔮 Next Steps
